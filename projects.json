@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Rick & Morty - IGST",
+    "live": "https://rick-and-morty-igst.vercel.app/",
+    "git": "https://github.com/CamSkiTheDev/Rick-and-Morty-IGST",
+    "image": "https://camo.githubusercontent.com/03fa273e37825b2d4b7a509787ab08200efab4628ac0a05be20be22eba20b6d5/68747470733a2f2f692e696d6775722e636f6d2f353349684b4c412e706e67"
+  },
+  {
+    "name": "Stocky - Inventory Management",
+    "live": "https://stocky-imt.herokuapp.com/auth/login",
+    "git": "https://github.com/CamSkiTheDev/Stocky",
+    "image": "https://camo.githubusercontent.com/50407a26b22145995da482c48e02ee2094acc69849951ec1f6187861b8e4e31a/68747470733a2f2f692e696d6775722e636f6d2f52613236774b732e706e67"
+  }
+]
